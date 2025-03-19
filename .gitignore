@@ -1,0 +1,9 @@
+#Ignore the config files
+.vscode/
+
+#Ignore the compile files
+compile/
+
+#System files
+.DS_Store
+Thumbs.db
